@@ -1,7 +1,7 @@
 name: Antarctica Memorabilia
 favicon: null
-layout_spectrum: 0.740158075466752
-typography_spectrum: 0.7741671602707356
+layout_spectrum: 0.99935
+typography_spectrum: 0.75485
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3345298464410007
+    - '#000000'
+    - '#c3d0dd'
+    - '#a4a4a6'
+    - '#454e61'
+    - '#2a2925'
+  brandStrength: 0.5
   lightness: 0.8711834521964192
   saturation: 0.9834890423808247
   rhythmicContrast: 0.27665764978155494
