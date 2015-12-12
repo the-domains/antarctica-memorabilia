@@ -1,0 +1,28 @@
+name: Antarctica Memorabilia
+favicon: null
+layout_spectrum: 0.740158075466752
+typography_spectrum: 0.7741671602707356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3345298464410007
+  lightness: 0.8711834521964192
+  saturation: 0.9834890423808247
+  rhythmicContrast: 0.27665764978155494
+purpose: []
